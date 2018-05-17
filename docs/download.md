@@ -2,7 +2,7 @@
 
 ## Source files
 
-<a href="#">Download</a> the archive of <span class="brand"><span class="brand-name">odyssey</span> <span class="brand-version">discovery</span></span> source files.
+<a href="https://github.com/OSW3/odyssey-discovery/archive/master.zip">Download</a> the archive of <span class="brand"><span class="brand-name">odyssey</span> <span class="brand-version">discovery</span></span> source files.
 
 ## Composer
 

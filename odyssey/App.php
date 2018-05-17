@@ -66,7 +66,7 @@ class App
 			'db_pass' => '',
 			'db_name' => '',
 			'db_table_prefix' => '',
-			'mode' => 'dev',
+			'env' => 'dev',
 			'security_user_table' => 'users',
 			'security_id_property' => 'id',
 			'security_username_property' => 'username',

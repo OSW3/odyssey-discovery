@@ -1,0 +1,20 @@
+{
+  "name": "odyssey-discovery",
+  "homepage": "https://github.com/OSW3/odyssey-discovery",
+  "authors": [
+    "Arnaud BODEL <contact@osw3.net>"
+  ],
+  "description": "A simple Micro Framework",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

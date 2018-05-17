@@ -1,0 +1,38 @@
+<?php 
+
+$w_config = [
+
+	/**
+	 * Global settings 
+	 */
+
+	'site_name'	=> '',
+	'mode' => 'dev',
+
+
+	/**
+	 * Database connection
+	 */
+
+	'db_host' => '127.0.0.1',
+    'db_user' => 'root',
+    'db_pass' => '',
+    'db_name' => 'odyssey_discovery',
+	'db_table_prefix' => '',
+
+
+	/**
+	 * Security settings
+	 */
+
+	'security_user_table' => 'users',
+	'security_id_property' => 'id',
+	'security_username_property' => 'username',
+	'security_email_property' => 'email',
+	'security_password_property' => 'password',
+	'security_roles_property' => 'roles',
+	'security_login_route_name' => 'login',
+];
+
+require 'routes.php';
+

@@ -1,8 +1,10 @@
 {
     "name": "osw3/odyssey-discovery",
     "description": "A simple Micro Framework",
-    "license": "MIT",
+    "keywords": ["framework"],
     "version": "1.1",
+    "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -31,6 +33,9 @@
         ]
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        },
         "somework/composer-symlinks": {
             "symlinks": {
                 "app/resources/public/assets/fonts/DeadIsland": "web/assets/fonts/DeadIsland"

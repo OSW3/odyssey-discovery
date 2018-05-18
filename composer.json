@@ -9,7 +9,7 @@
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
-    "minimum-stability": "RC",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Arnaud BODEL",

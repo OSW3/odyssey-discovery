@@ -30,11 +30,5 @@
                 "app/resources/public/assets/fonts/DeadIsland": "web/assets/fonts/DeadIsland"
             }
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/osw3/odyssey-discovery"
-        }
-    ]
+    }
 }

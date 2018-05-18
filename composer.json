@@ -16,14 +16,14 @@
         "doc": "http://odyssey.osw3.net/"
     },
     "require": {
-        "osw3/odyssey-core-php": "^1.0"
+        "osw3/odyssey-core-php": "*"
     },
     "autoload": {
         "psr-4": {
             "": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "somework/composer-symlinks": {

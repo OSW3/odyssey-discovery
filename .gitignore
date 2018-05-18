@@ -1,9 +1,2 @@
 /app/config/config.php
 /vendor/
-/web/assets/css/bootstrap.css
-/web/assets/js/bootstrap.js
-/web/assets/js/jquery.js
-/web/assets/js/less.js
-/web/assets/js/popper.js
-*.log
-Micro-Framework.code-workspace

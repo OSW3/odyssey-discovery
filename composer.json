@@ -2,7 +2,7 @@
     "name": "osw3/odyssey-discovery",
     "type": "library",
     "description": "A simple Micro Framework",
-    "version": "1.0.0-dev",
+    "version": "1.0.0",
     "keywords": ["framework"],
     "homepage": "https://github.com/osw3/odyssey-discovery",
     "license": "MIT",
@@ -41,7 +41,7 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.0"
+            "dev-master": "1.0.0-dev"
         },
         "somework/composer-symlinks": {
             "symlinks": {

@@ -2,6 +2,7 @@
     "name": "osw3/odyssey-discovery",
     "type": "project",
     "description": "A simple Micro Framework",
+    "version": "1.0.0",
     "keywords": ["framework"],
     "homepage": "https://github.com/osw3/odyssey-discovery",
     "license": "MIT",

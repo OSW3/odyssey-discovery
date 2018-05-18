@@ -16,7 +16,6 @@
         "doc": "http://odyssey.osw3.net/"
     },
     "require": {
-        "osw3/odyssey-discovery":"dev-master@dev",
         "osw3/odyssey-core-php": "*"
     },
     "autoload": {

@@ -6,9 +6,9 @@
         "odyssey"
     ],
     "homepage": "https://github.com/osw3/odyssey-discovery",
-    "version": "0.1",
     "type": "library",
     "license": "MIT",
+    "version": "0.1",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -38,9 +38,6 @@
         ]
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "0.1-dev"
-        },
         "somework/composer-symlinks": {
             "symlinks": {
                 "app/resources/public/assets/fonts/DeadIsland": "web/assets/fonts/DeadIsland"

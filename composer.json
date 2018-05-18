@@ -15,7 +15,7 @@
         "doc": "http://odyssey.osw3.net/"
     },
     "require": {
-        "osw3/odyssey-core-php": "@dev"
+        "osw3/odyssey-core-php": "dev-master"
     },
     "autoload": {
         "psr-4": {

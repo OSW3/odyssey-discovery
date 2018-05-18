@@ -22,7 +22,7 @@
             "": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "extra": {
         "somework/composer-symlinks": {
             "symlinks": {

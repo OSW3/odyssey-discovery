@@ -16,6 +16,7 @@
         "doc": "http://odyssey.osw3.net/"
     },
     "require": {
+        "php": "^7.1.3",
         "osw3/odyssey-core-php": "*"
     },
     "autoload": {
@@ -26,9 +27,7 @@
     "minimum-stability": "dev",
     "extra": {
         "somework/composer-symlinks": {
-            "symlinks": {
-                "app/resources/public/assets/fonts/DeadIsland": "web/assets/fonts/DeadIsland"
-            }
+            "symlinks": {}
         }
     }
 }

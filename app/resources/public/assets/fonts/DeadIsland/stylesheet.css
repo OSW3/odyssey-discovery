@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Dead Island';
-    src: url('DeadIsland.woff2') format('woff2'),
-        url('DeadIsland.woff') format('woff'),
-        url('DeadIsland.svg#DeadIsland') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-

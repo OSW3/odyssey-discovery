@@ -1,13 +1,13 @@
 <?php 
 
-$w_config = [
+$config = [
 
 	/**
 	 * Global settings 
 	 */
 
 	'site_name'	=> '',
-	'mode' => 'dev',
+	'env' => 'dev',
 
 
 	/**
@@ -33,6 +33,3 @@ $w_config = [
 	'security_roles_property' => 'roles',
 	'security_login_route_name' => 'login',
 ];
-
-require 'routes.php';
-

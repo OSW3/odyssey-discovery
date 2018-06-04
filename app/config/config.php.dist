@@ -19,6 +19,8 @@ $w_config = [
     'db_pass' => '',
     'db_name' => 'odyssey_discovery',
 	'db_table_prefix' => '',
+	'fetch_mode' => 'object',
+	'query_mode' => 'normal',
 
 
 	/**

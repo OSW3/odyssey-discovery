@@ -6,11 +6,5 @@ if (!file_exists('../vendor/autoload.php')){
 }
 require '../vendor/autoload.php';
 
-if (!file_exists('../app/config/config.php')){
-	echo '<p>Vous devez créer le fichier <code>app/config.php</code>, en créant une copie du fichier <code>app/config.dist.php</code></p>';
-	die();
-}
-require '../app/config/config.php';
-
 $app = new Odyssey\App();
 $app->run();
